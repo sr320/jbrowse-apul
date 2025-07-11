@@ -1,0 +1,21 @@
+{
+  "assemblies": [
+    {
+      "name": "Amil",
+      "displayName": "Acropora millepora",
+      "sequence": {
+        "type": "ReferenceSequenceTrack",
+        "trackId": "amil_refseq",
+        "adapter": {
+          "type": "IndexedFastaAdapter",
+          "fastaLocation": {
+            "uri": "https://gannet.fish.washington.edu/seashell/bu-github/deep-dive/D-Apul/data/GCF_013753865.1_Amil_v2.1_genomic.fna"
+          },
+          "faiLocation": {
+            "uri": "https://gannet.fish.washington.edu/seashell/bu-github/deep-dive/D-Apul/data/GCF_013753865.1_Amil_v2.1_genomic.fna.fai"
+          }
+        }
+      }
+    }
+  ]
+}
