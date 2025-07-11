@@ -12,7 +12,7 @@
             "uri": "https://gannet.fish.washington.edu/v1_web/owlshell/bu-github/deep-dive/D-Apul/data/Amil/GCF_013753865.1_Amil_v2.1_genomic.fna"
           },
           "faiLocation": {
-            "uri": "https://gannet.fish.washington.edu/v1_web/owlshell/bu-github/deep-dive/D-Apul/data/Amil/GCF_013753865.1_Amil_v2.1_genomic.fna.fai"
+            "uri": "https://raw.githubusercontent.com/sr320/jbrowse-apul/refs/heads/main/data/assemblies/GCF_013753865.1_Amil_v2.1_genomic.fna.fai"
           }
         }
       }
